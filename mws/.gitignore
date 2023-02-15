@@ -1,0 +1,22 @@
+### Django ###
+*.log
+*.pot
+*.pyc
+db.sqlite3
+db.sqlite3-journal
+.python-version
+Pipfile.lock
+
+#assets
+/assets/CV.pdf
+
+#home
+/home/__pycache__/
+/home/migrations/
+/home/__init__.py
+
+#mws
+/mws/__pycache__/
+/mws/__init__.py
+
+
