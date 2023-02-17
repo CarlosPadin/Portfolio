@@ -11,12 +11,10 @@ Pipfile.lock
 /assets/CV.pdf
 
 #home
-/home/__pycache__/
-/home/migrations/
-/home/__init__.py
+__pycache__/
+migrations/
+__init__.py
 
-#mws
-/mws/__pycache__/
-/mws/__init__.py
+
 
 
